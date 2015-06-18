@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{40CD8523-679F-6581-4284-EFB18F4385B4}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-CSharp</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+	<BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_4_5_1;UNITY_4_5;UNITY_ANDROID;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_UNITYEVENTS;ENABLE_NEW_HIERARCHY ;ENABLE_AUDIO_FMOD;ENABLE_MONO;ENABLE_TERRAIN;ENABLE_SUBSTANCE;ENABLE_GENERICS;INCLUDE_WP8SUPPORT;ENABLE_WWW;ENABLE_IMAGEEFFECTS;ENABLE_WEBCAM;INCLUDE_METROSUPPORT;RENDER_SOFTWARE_CURSOR;ENABLE_NETWORK;ENABLE_PHYSICS;ENABLE_CACHING;ENABLE_CLOTH;UNITY_ANDROID_API;ENABLE_2D_PHYSICS;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_NAVMESH_CARVING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_OSX;UNITY_TEAM_LICENSE;UNITY_PRO_LICENSE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="System.Xml.Linq" />
+	<Reference Include="UnityEngine">
+	  <HintPath>/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\AccelerometerListener.cs" />
+     <Compile Include="Assets\AimTypeController.cs" />
+     <Compile Include="Assets\CNJoystick\Scripts\CN2DController.cs" />
+     <Compile Include="Assets\CNJoystick\Scripts\CNCameraFollow.cs" />
+     <Compile Include="Assets\CNJoystick\Scripts\CNCameraRelativeSetup.cs" />
+     <Compile Include="Assets\CNJoystick\Scripts\CNJoystick.cs" />
+     <Compile Include="Assets\CNJoystick\Scripts\SkeletonAnimator.cs" />
+     <Compile Include="Assets\CheckBox.cs" />
+     <Compile Include="Assets\CommunicationManager.cs" />
+     <Compile Include="Assets\ConfigButton.cs" />
+     <Compile Include="Assets\ConfigureManager.cs" />
+     <Compile Include="Assets\GGestureManager.cs" />
+     <Compile Include="Assets\GyroManager.cs" />
+     <Compile Include="Assets\HOTween\_Demo\HOTweenDemoBrain.cs" />
+     <Compile Include="Assets\JoystickManager.cs" />
+     <Compile Include="Assets\MicListener.cs" />
+     <Compile Include="Assets\NetworkManager.cs" />
+     <Compile Include="Assets\Scripts\Bluetooth.cs" />
+     <Compile Include="Assets\Scripts\BluetoothEventListener.cs" />
+     <Compile Include="Assets\Scripts\BluetoothGUI.cs" />
+     <Compile Include="Assets\Scripts\JSONObject.cs" />
+     <Compile Include="Assets\TouchScript\Examples\General\2D - Double Tap\Scripts\DoubleTap_Sprite.cs" />
+     <Compile Include="Assets\TouchScript\Examples\General\Hierarchy\Scripts\Heirarchy_Button.cs" />
+     <Compile Include="Assets\TouchScript\Examples\General\Hierarchy\Scripts\Heirarchy_Panel.cs" />
+     <Compile Include="Assets\TouchScript\Examples\General\Input\Scripts\InputExample.cs" />
+     <Compile Include="Assets\TouchScript\Examples\General\Input\Scripts\InputExample_Ball.cs" />
+     <Compile Include="Assets\TouchScript\Examples\General\Layers\Scripts\Layers_Sprite.cs" />
+     <Compile Include="Assets\TouchScript\Examples\General\LongPress\Scripts\LongPress_Button.cs" />
+     <Compile Include="Assets\TouchScript\Examples\General\Pan\Scripts\Pan_Button.cs" />
+     <Compile Include="Assets\TouchScript\Examples\General\Pan\Scripts\Pan_Object.cs" />
+     <Compile Include="Assets\TouchScript\Examples\General\Tap\Scripts\Tap_Breaker.cs" />
+     <Compile Include="Assets\TouchScript\Examples\General\Tap\Scripts\Tap_Spawner.cs" />
+     <Compile Include="Assets\TouchScript\Examples\_misc\Scripts\Example.cs" />
+     <Compile Include="Assets\TouchScript\Examples\_misc\Scripts\Examples.cs" />
+     <None Include="Assets\HOTween\readme.txt" />
+     <None Include="Assets\Realistic Shooter Kit\Materials\Advanced Spec Refl Color.shader" />
+     <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
+     <None Include="Assets\Realistic Shooter Kit\Materials\Glass Reflective.shader" />
+     <None Include="Assets\CNJoystick\OnScreenControls\Initial Pack\Sprites\flatDark\flatDark.xml" />
+     <None Include="Assets\FPS_Character Pack\Resources\FPS_CharacterPack_F\Shaders\toon_cutoff.shader" />
+ <Reference Include="Parse.Unity">
+ <HintPath>/Users/huw12313212/GlassGames/GlassGameController/Assets/Parse.Unity.dll</HintPath>
+ </Reference>
+ <Reference Include="HOTween">
+ <HintPath>/Users/huw12313212/GlassGames/GlassGameController/Assets/HOTween/Plugins/HOTween.dll</HintPath>
+ </Reference>
+ <Reference Include="TouchScript">
+ <HintPath>/Users/huw12313212/GlassGames/GlassGameController/Assets/TouchScript/Plugins/TouchScript.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

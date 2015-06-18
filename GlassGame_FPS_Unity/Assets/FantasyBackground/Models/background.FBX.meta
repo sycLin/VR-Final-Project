@@ -1,0 +1,273 @@
+fileFormatVersion: 2
+guid: e5c8377db934a9e4585b461571f5ebb6
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: h01
+    100004: h02
+    100006: h03
+    100008: h04
+    100010: h05
+    100012: h06
+    100014: h07
+    100016: h08
+    100018: h09
+    100020: h09 1
+    100022: h10
+    100024: h11
+    100026: Particle View 001
+    100028: Plane001
+    100030: Sphere001
+    100032: ______01
+    100034: ______02
+    100036: ______03
+    100038: ______04
+    100040: ______05
+    100042: _________ ______
+    100044: _________ ______001
+    100046: h012
+    100048: Plane005
+    100050: Plane006
+    100052: Plane007
+    100054: Plane008
+    100056: Plane009
+    100058: Plane010
+    100060: Plane011
+    100062: Plane012
+    100064: Plane013
+    100066: Plane014
+    100068: Plane015
+    100070: Plane016
+    100072: Plane017
+    100074: Plane018
+    100076: Plane019
+    100078: Plane020
+    100080: Plane021
+    100082: Plane022
+    100084: Plane023
+    100086: Plane024
+    400000: //RootNode
+    400002: h01
+    400004: h02
+    400006: h03
+    400008: h04
+    400010: h05
+    400012: h06
+    400014: h07
+    400016: h08
+    400018: h09
+    400020: h09 1
+    400022: h10
+    400024: h11
+    400026: Particle View 001
+    400028: Plane001
+    400030: Sphere001
+    400032: ______01
+    400034: ______02
+    400036: ______03
+    400038: ______04
+    400040: ______05
+    400042: _________ ______
+    400044: _________ ______001
+    400046: h012
+    400048: Plane005
+    400050: Plane006
+    400052: Plane007
+    400054: Plane008
+    400056: Plane009
+    400058: Plane010
+    400060: Plane011
+    400062: Plane012
+    400064: Plane013
+    400066: Plane014
+    400068: Plane015
+    400070: Plane016
+    400072: Plane017
+    400074: Plane018
+    400076: Plane019
+    400078: Plane020
+    400080: Plane021
+    400082: Plane022
+    400084: Plane023
+    400086: Plane024
+    2300000: h01
+    2300002: h02
+    2300004: h03
+    2300006: h04
+    2300008: h05
+    2300010: h06
+    2300012: h07
+    2300014: h08
+    2300016: h09
+    2300018: h09 1
+    2300020: h10
+    2300022: h11
+    2300024: Plane001
+    2300026: Sphere001
+    2300028: ______01
+    2300030: ______02
+    2300032: ______03
+    2300034: ______04
+    2300036: ______05
+    2300038: _________ ______
+    2300040: _________ ______001
+    2300042: h012
+    2300044: Plane005
+    2300046: Plane006
+    2300048: Plane007
+    2300050: Plane008
+    2300052: Plane009
+    2300054: Plane010
+    2300056: Plane011
+    2300058: Plane012
+    2300060: Plane013
+    2300062: Plane014
+    2300064: Plane015
+    2300066: Plane016
+    2300068: Plane017
+    2300070: Plane018
+    2300072: Plane019
+    2300074: Plane020
+    2300076: Plane021
+    2300078: Plane022
+    2300080: Plane023
+    2300082: Plane024
+    3300000: h01
+    3300002: h02
+    3300004: h03
+    3300006: h04
+    3300008: h05
+    3300010: h06
+    3300012: h07
+    3300014: h08
+    3300016: h09
+    3300018: h09 1
+    3300020: h10
+    3300022: h11
+    3300024: Plane001
+    3300026: Sphere001
+    3300028: ______01
+    3300030: ______02
+    3300032: ______03
+    3300034: ______04
+    3300036: ______05
+    3300038: _________ ______
+    3300040: _________ ______001
+    3300042: h012
+    3300044: Plane005
+    3300046: Plane006
+    3300048: Plane007
+    3300050: Plane008
+    3300052: Plane009
+    3300054: Plane010
+    3300056: Plane011
+    3300058: Plane012
+    3300060: Plane013
+    3300062: Plane014
+    3300064: Plane015
+    3300066: Plane016
+    3300068: Plane017
+    3300070: Plane018
+    3300072: Plane019
+    3300074: Plane020
+    3300076: Plane021
+    3300078: Plane022
+    3300080: Plane023
+    3300082: Plane024
+    4300000: Plane001
+    4300002: Sphere001
+    4300004: h03
+    4300006: h02
+    4300008: h01
+    4300010: h04
+    4300012: h05
+    4300014: h06
+    4300016: h07
+    4300018: h08
+    4300020: h09
+    4300022: h09
+    4300024: h10
+    4300026: h11
+    4300028: Plane005
+    4300030: _________ ______
+    4300032: Plane006
+    4300034: Plane007
+    4300036: Plane008
+    4300038: Plane009
+    4300040: ______03
+    4300042: ______02
+    4300044: ______05
+    4300046: ______01
+    4300048: ______04
+    4300050: Plane010
+    4300052: Plane011
+    4300054: Plane012
+    4300056: _________ ______001
+    4300058: Plane013
+    4300060: Plane014
+    4300062: Plane015
+    4300064: Plane016
+    4300066: Plane017
+    4300068: Plane018
+    4300070: Plane019
+    4300072: Plane020
+    4300074: Plane021
+    4300076: Plane022
+    4300078: Plane023
+    4300080: Plane024
+    4300082: h012
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

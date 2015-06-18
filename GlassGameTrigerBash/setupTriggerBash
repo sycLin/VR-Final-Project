@@ -1,0 +1,3 @@
+mkdir ../GlassShooter/res/xml
+cp ./voice_trigger_play_a_game.xml ../GlassShooter/res/xml/
+cp ./AndroidManifest.xml ../GlassShooter

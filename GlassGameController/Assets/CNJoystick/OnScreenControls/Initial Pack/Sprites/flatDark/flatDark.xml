@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:878b14db8554fec1cf352201f237a9f5:d44fcd8423d4b9bf087ad002723492df:ba59193a9c14f473d4ed63220f485a17$ -->
+<TextureAtlas imagePath="flatDark.png">
+    <SubTexture name="flatDark01" x="2" y="2" width="96" height="96"/>
+    <SubTexture name="flatDark02" x="100" y="2" width="61" height="76"/>
+    <SubTexture name="flatDark03" x="163" y="2" width="125" height="125"/>
+    <SubTexture name="flatDark04" x="290" y="2" width="76" height="61"/>
+    <SubTexture name="flatDark05" x="368" y="2" width="75" height="61"/>
+    <SubTexture name="flatDark06" x="2" y="129" width="160" height="160"/>
+    <SubTexture name="flatDark07" x="164" y="129" width="160" height="160"/>
+    <SubTexture name="flatDark08" x="326" y="129" width="160" height="160"/>
+    <SubTexture name="flatDark09" x="2" y="291" width="61" height="75"/>
+    <SubTexture name="flatDark10" x="65" y="291" width="160" height="160"/>
+    <SubTexture name="flatDark11" x="227" y="291" width="48" height="48"/>
+    <SubTexture name="flatDark12" x="277" y="291" width="48" height="48"/>
+    <SubTexture name="flatDark13" x="327" y="291" width="48" height="48"/>
+    <SubTexture name="flatDark14" x="377" y="291" width="48" height="48"/>
+    <SubTexture name="flatDark15" x="427" y="291" width="48" height="48"/>
+    <SubTexture name="flatDark16" x="2" y="453" width="48" height="48"/>
+    <SubTexture name="flatDark17" x="52" y="453" width="48" height="48"/>
+    <SubTexture name="flatDark18" x="102" y="453" width="48" height="48"/>
+    <SubTexture name="flatDark19" x="152" y="453" width="48" height="48"/>
+    <SubTexture name="flatDark20" x="202" y="453" width="48" height="48"/>
+    <SubTexture name="flatDark21" x="252" y="453" width="48" height="48"/>
+    <SubTexture name="flatDark22" x="302" y="453" width="48" height="48"/>
+    <SubTexture name="flatDark23" x="352" y="453" width="80" height="80"/>
+    <SubTexture name="flatDark24" x="2" y="535" width="80" height="80"/>
+    <SubTexture name="flatDark25" x="84" y="535" width="80" height="80"/>
+    <SubTexture name="flatDark26" x="166" y="535" width="80" height="80"/>
+    <SubTexture name="flatDark27" x="248" y="535" width="80" height="80"/>
+    <SubTexture name="flatDark28" x="330" y="535" width="80" height="80"/>
+    <SubTexture name="flatDark29" x="412" y="535" width="48" height="48"/>
+    <SubTexture name="flatDark30" x="462" y="535" width="48" height="48"/>
+    <SubTexture name="flatDark31" x="2" y="617" width="48" height="48"/>
+    <SubTexture name="flatDark32" x="52" y="617" width="48" height="48"/>
+    <SubTexture name="flatDark33" x="102" y="617" width="48" height="48"/>
+    <SubTexture name="flatDark34" x="152" y="617" width="48" height="48"/>
+    <SubTexture name="flatDark35" x="202" y="617" width="80" height="80"/>
+    <SubTexture name="flatDark36" x="284" y="617" width="80" height="80"/>
+    <SubTexture name="flatDark37" x="366" y="617" width="80" height="80"/>
+    <SubTexture name="flatDark38" x="2" y="699" width="80" height="80"/>
+    <SubTexture name="flatDark39" x="84" y="699" width="80" height="80"/>
+    <SubTexture name="flatDark40" x="166" y="699" width="80" height="80"/>
+    <SubTexture name="flatDark41" x="248" y="699" width="108" height="48"/>
+    <SubTexture name="flatDark42" x="358" y="699" width="108" height="48"/>
+    <SubTexture name="flatDark43" x="2" y="781" width="108" height="48"/>
+    <SubTexture name="flatDark44" x="112" y="781" width="80" height="80"/>
+    <SubTexture name="flatDark45" x="194" y="781" width="80" height="80"/>
+    <SubTexture name="flatDark46" x="276" y="781" width="80" height="80"/>
+    <SubTexture name="flatDark47" x="358" y="781" width="80" height="80"/>
+    <SubTexture name="flatDark48" x="2" y="863" width="80" height="80"/>
+    <SubTexture name="flatDark49" x="84" y="863" width="80" height="80"/>
+</TextureAtlas>
